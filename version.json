@@ -1,1 +1,7 @@
-{"versionCode":6,"versionName":"1.3.2","note":"الاسم والأيقونة الجديدان وتصحيح النصوص العربية.","url":"https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.3.2/alduha-altaqwa.apk","sha256":"8bd08cc2d93fe5052e2a64e8ea7ab439bd804f91f734545df3e3a8da5abc77a6"}
+{
+  "versionCode": 7,
+  "versionName": "1.4.0",
+  "note": "إضافة تنبيهات اختيارية للتحديثات، مع بقاء القرآن والأذكار دون إنترنت.",
+  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.4.0/alduha-altaqwa.apk",
+  "sha256": "4e4454e2b139cf9811e4ca15501790ff076f4de0229335525413678c9813e222"
+}
