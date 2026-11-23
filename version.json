@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.0",
-  "note": "إضافة تنبيهات اختيارية للتحديثات، مع بقاء القرآن والأذكار دون إنترنت.",
-  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.4.0/alduha-altaqwa.apk",
-  "sha256": "4e4454e2b139cf9811e4ca15501790ff076f4de0229335525413678c9813e222"
+  "versionCode": 8,
+  "versionName": "1.5.0",
+  "note": "تصميم كحلي، مواقيت عواصم محافظات مصر وتنبيه اختياري قبل الصلاة بربع ساعة، وإذاعة القرآن الكريم. راجع ملاحظات الإصدار وحدود التشغيل.",
+  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.5.0/alduha-altaqwa.apk",
+  "sha256": "65ce8d747f94de3aea8cbe671b3c268b67eb0d731274ba162ba79706ccb26b78"
 }
