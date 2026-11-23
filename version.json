@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.5.0",
-  "note": "تصميم كحلي، مواقيت عواصم محافظات مصر وتنبيه اختياري قبل الصلاة بربع ساعة، وإذاعة القرآن الكريم. راجع ملاحظات الإصدار وحدود التشغيل.",
-  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.5.0/alduha-altaqwa.apk",
-  "sha256": "65ce8d747f94de3aea8cbe671b3c268b67eb0d731274ba162ba79706ccb26b78"
+  "versionCode": 9,
+  "versionName": "1.5.1",
+  "note": "إزالة الشريط السفلي، مع كل الأقسام وزر آية والتذكير في الرئيسية، وزر الرئيسية أعلى الشاشات الداخلية.",
+  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.5.1/alduha-altaqwa.apk",
+  "sha256": "b838381ab33c0e94f6c87f603d06f0c154012072b4e8b1dc4c5be449cff90cc1"
 }
