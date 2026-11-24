@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.5.1",
-  "note": "إزالة الشريط السفلي، مع كل الأقسام وزر آية والتذكير في الرئيسية، وزر الرئيسية أعلى الشاشات الداخلية.",
-  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.5.1/alduha-altaqwa.apk",
-  "sha256": "b838381ab33c0e94f6c87f603d06f0c154012072b4e8b1dc4c5be449cff90cc1"
+  "versionCode": 12,
+  "versionName": "1.6.2",
+  "note": "مهم: احذف التطبيق القديم أولا من إعدادات الهاتف، ثم اضغط هنا لتحميل النسخة الجديدة وتثبيتها. بياناتك القديمة ستُمسح لأن مفتاح التوقيع تغيّر. الجديد: قضاء الصلوات وإذاعة القرآن الكريم.",
+  "url": "https://github.com/mrtefa/alduha-altaqwa-updates/releases/download/v1.6.2/alduha-altaqwa.apk",
+  "sha256": "c4737f9820afe742dcfdfe409dc991dec5ba2fe3193a5d7fd8a1cd86e66cd031"
 }
